@@ -1,6 +1,5 @@
 # Push_swap
 
-## Overview
 Push_swap is a sorting algorithm project that challenges you to efficiently sort a stack of integers using a limited set of operations. The goal is to implement two programs: one that generates a list of instructions to sort the stack and another that executes these instructions. The objective is to achieve the sorting with the least number of moves, making it a practical exercise in algorithmic optimization.
 
 ### Supported Operations
@@ -17,7 +16,7 @@ Push_swap is a sorting algorithm project that challenges you to efficiently sort
 + **rrr:** Perform rra and rrb simultaneously.
 
 ## Usage
-### Compilation
+### Compilation 
 `make`
 
 ### Execution
